@@ -7,4 +7,8 @@ public class Calculate{
     System.out.println("Addition of a + b is : " +(a+b));
   }
   
+  public void sub(int a, int b){
+    System.out.println("Substraction of a - b is : " +(a+b));
+  }
+  
 }
