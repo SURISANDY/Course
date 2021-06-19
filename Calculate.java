@@ -19,4 +19,7 @@ public class Calculate{
     System.out.println("Division of a / b is : " +(a/b));
   }
   
+   public void per(int a, int b){
+    System.out.println("Percentage of a % b is : " +(a%b));
+  }
 }
