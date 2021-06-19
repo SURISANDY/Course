@@ -11,4 +11,8 @@ public class Calculate{
     System.out.println("Substraction of a - b is : " +(a-b));
   }
   
+  public void div(int a, int b){
+    System.out.println("Division of a / b is : " +(a/b));
+  }
+  
 }
