@@ -8,7 +8,7 @@ public class Calculate{
   }
   
   public void sub(int a, int b){
-    System.out.println("Substraction of a - b is : " +(a+b));
+    System.out.println("Substraction of a - b is : " +(a-b));
   }
   
 }
